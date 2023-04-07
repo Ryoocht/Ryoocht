@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ryo</h1>
 <h3 align="center">A passionate full stack developer from Japan</h3>
 
-- 🔭 I’m currently working on **Kaimon (Online Grocery Delivery App)**
+- 🔭 I’m currently working on **Protostar (Programming Learning Platform App)**
 
-- 🌱 I’m currently learning **Ruby on Rails and ReactJS**
+- 🌱 I mainly use **React / Next / Typescript / Nest / Prisma**
 
 - 📝 I regularly write articles on [https://medium.com/@Ryoocht](https://medium.com/@Ryoocht)
 
